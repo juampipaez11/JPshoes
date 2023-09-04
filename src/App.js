@@ -8,7 +8,9 @@ function App() {
     <div className="App">
       <CustomNavbar />
       <ItemListContainer greeting="¡Bienvenido a JPshoes!" />
-      <h1></h1>
+      <h1>
+        
+      </h1>
     </div>
   );
 }
